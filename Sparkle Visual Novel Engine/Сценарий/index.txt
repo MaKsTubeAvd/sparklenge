@@ -1,0 +1,5 @@
+label - start
+background: fon
+dialoge_ Максим | Это движок 
+dialoge_ Максим | Приятного пользования
+return
